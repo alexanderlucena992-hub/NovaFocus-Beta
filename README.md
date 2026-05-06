@@ -23,7 +23,7 @@ Selecciona idioma / Select language:
 
 ## License and open source
 
-* This project is an open source project under the GNU Free Documentation License so that anyone can discover bugs and improve the app
+* This project is an open source project under the GNU General Public License v2.0 so that anyone can discover bugs and improve the app
 
 ## What is Novavolpers Inc.
 
