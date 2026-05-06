@@ -9,7 +9,7 @@ Hello everyone, this is my first project called NovaFocus, which has a language 
 * The program will open in your Linux terminal; select the language and block notifications.
 
 ```
-cd "/home/alexdevpc/Descargas/NovaFocus"
+cd "/home/user/Descargas/NovaFocus"
 ./focus
 Selecciona idioma / Select language:
 1. Español
