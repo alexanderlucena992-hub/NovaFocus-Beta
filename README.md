@@ -31,3 +31,9 @@ Selecciona idioma / Select language:
 
 
 ## ©2026 Novavolpers Inc.
+
+<a href="https://gitlab.com/alexanderlucena992/novafocus-beta" target="_blank">
+  <img src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-500.png" 
+       alt="GitLab NovaFocus" 
+       style="width:150px; height:auto;">
+</a>
